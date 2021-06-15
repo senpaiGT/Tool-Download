@@ -1,0 +1,43 @@
+echo -e "\e[32m[*]\e[34m WELCOME TO SenpaiGT TOOLS  \e[m "
+echo
+#Installing the following packages to install T-Remix
+echo " "
+echo -e "\e[32m[*]\e[34m Installing Tool-Download \e[m "
+apt-get update -y
+apt-get upgrade -y
+apt-get install python -y
+apt-get install figlet -y
+apt-get  install ruby -y
+pip install lolcat
+gem install lolcat
+apt-get install toilet -y
+pkg install ncurses-utils -y
+
+
+clear
+echo " "
+echo " "
+echo " "
+echo "
+
+        WELCOME TO  senpaiGT TOOLS
+    
+                
+
+╱╭╮╱╱╱╱╱╱╭╮╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╱╱╱╭╮
+╭╯╰╮╱╱╱╱╱┃┃╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱┃┃
+╰╮╭╋━━┳━━┫┃╱╭━╯┣━━┳╮╭╮╭┳━╮┃┃╭━━┳━━┳━╯┃
+╱┃┃┃╭╮┃╭╮┃┃╱┃╭╮┃╭╮┃╰╯╰╯┃╭╮┫┃┃╭╮┃╭╮┃╭╮┃
+╱┃╰┫╰╯┃╰╯┃╰╮┃╰╯┃╰╯┣╮╭╮╭┫┃┃┃╰┫╭╮┃╰╯┃╰╯┃
+╱╰━┻━━┻━━┻━╯╰━━┻━━╯╰╯╰╯╰╯╰┻━┻╯╰┻━━┻━━╯ v 1.0" |lolcat
+
+
+echo " "
+echo " "
+echo " 
+       <─────────────── [ Re-Coded by =*•.¸♡ senpaiGT ♡¸.•* ] ───────────────>            
+                                                               " |lolcat
+echo " "
+echo " "
+echo " 
+<─────[ Please Do bash Tool-Download.sh ]─────> "|lolcat
